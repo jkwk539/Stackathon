@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stackathon/static/css/main.8d0346a3.css",
+    "main.js": "/Stackathon/static/js/main.c57d22ab.js",
+    "index.html": "/Stackathon/index.html",
+    "main.8d0346a3.css.map": "/Stackathon/static/css/main.8d0346a3.css.map",
+    "main.c57d22ab.js.map": "/Stackathon/static/js/main.c57d22ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0346a3.css",
+    "static/js/main.c57d22ab.js"
+  ]
+}
